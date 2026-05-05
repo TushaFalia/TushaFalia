@@ -1,9 +1,14 @@
-## 🏆 HackerRank Achievements
 
-🔗 [View My Profile](https://www.hackerrank.com/TushaFalia)
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tusha%20Falia-blue?logo=linkedin)](https://www.linkedin.com/in/tushafalia)
+[![HackerRank](https://img.shields.io/badge/HackerRank-TushaFalia-brightgreen?logo=hackerrank)](https://www.hackerrank.com/TushaFalia)
+
+## 🏆 HackerRank Achievements
 
 ![Python](https://img.shields.io/badge/Python-5⭐%20Gold-yellow?logo=python)
 ![C](https://img.shields.io/badge/C-1⭐%20Bronze-blue?logo=c)
+
 
 <!--
 **TushaFalia/TushaFalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
