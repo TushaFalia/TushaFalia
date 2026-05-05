@@ -1,6 +1,7 @@
 
 ## 🌐 Connect with Me
 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:tushafalia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tusha%20Falia-blue?logo=linkedin)](https://www.linkedin.com/in/tushafalia)
 [![HackerRank](https://img.shields.io/badge/HackerRank-TushaFalia-brightgreen?logo=hackerrank)](https://www.hackerrank.com/TushaFalia)
 
